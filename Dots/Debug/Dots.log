@@ -1,0 +1,32 @@
+﻿Build started 10/15/2015 11:35:39 PM.
+     1>Project "C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Dots\Dots.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Display.cpp Game.cpp Input.cpp MainComponent.cpp Mesh.cpp Sprite.cpp
+         Skipping... (no relevant changes detected)
+         Sprite.cpp
+         Mesh.cpp
+         MainComponent.cpp
+         Input.cpp
+         Game.cpp
+         Display.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt stb_image.c
+         stb_image.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Debug\Dots.exe" /INCREMENTAL /NOLOGO /LIBPATH:.\lib SDL2.lib SDL2main.lib SDL2test.lib glew32.lib glew32s.lib OpenGL32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Debug\Dots.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Debug\Dots.lib" /MACHINE:X86 Debug\Display.obj
+         Debug\Game.obj
+         Debug\Input.obj
+         Debug\Main.obj
+         Debug\MainComponent.obj
+         Debug\mathFunctions.obj
+         Debug\Mesh.obj
+         Debug\Shader.obj
+         Debug\Sprite.obj
+         Debug\stb_image.obj
+         Debug\Texture.obj
+         Debug\Time.obj
+         Dots.vcxproj -> C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Debug\Dots.exe
+     1>Done Building Project "C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Dots\Dots.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.28

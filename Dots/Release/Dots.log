@@ -1,0 +1,82 @@
+﻿Build started 10/15/2015 11:39:24 PM.
+     1>Project "C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Dots\Dots.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Display.cpp Game.cpp Input.cpp Main.cpp MainComponent.cpp mathFunctions.cpp Mesh.cpp Shader.cpp Sprite.cpp Texture.cpp Time.cpp
+         Display.cpp
+         Game.cpp
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(97): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(98): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(208): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(209): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(210): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(211): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(226): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(226): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(227): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(227): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Screen.h(63): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Screen.h(73): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Screen.h(74): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+         Input.cpp
+     1>Input.cpp(28): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+     1>Input.cpp(33): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+         Main.cpp
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(97): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(98): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(208): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(209): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(210): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(211): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(226): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(226): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(227): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(227): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Screen.h(63): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Screen.h(73): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Screen.h(74): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>Main.cpp(10): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         MainComponent.cpp
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(97): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(98): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(208): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(209): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(210): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(211): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(226): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(226): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(227): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Entities.h(227): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Screen.h(63): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Screen.h(73): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\charles\desktop\c++ projects\projects\dots\dots\Screen.h(74): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+         mathFunctions.cpp
+         Mesh.cpp
+         Shader.cpp
+         Sprite.cpp
+         Texture.cpp
+         Time.cpp
+     1>Time.cpp(12): warning C4244: 'return' : conversion from 'Uint64' to 'long', possible loss of data
+     1>Time.cpp(27): warning C4244: 'return' : conversion from 'Uint64' to 'long', possible loss of data
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt stb_image.c
+         stb_image.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Release\Dots.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:.\lib SDL2.lib SDL2main.lib SDL2test.lib glew32.lib glew32s.lib OpenGL32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Release\Dots.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Release\Dots.lib" /MACHINE:X86 /SAFESEH Release\Display.obj
+         Release\Game.obj
+         Release\Input.obj
+         Release\Main.obj
+         Release\MainComponent.obj
+         Release\mathFunctions.obj
+         Release\Mesh.obj
+         Release\Shader.obj
+         Release\Sprite.obj
+         Release\stb_image.obj
+         Release\Texture.obj
+         Release\Time.obj
+         Generating code
+         Finished generating code
+         Dots.vcxproj -> C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Release\Dots.exe
+     1>Done Building Project "C:\Users\Charles\Desktop\C++ Projects\Projects\Dots\Dots\Dots.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.28
