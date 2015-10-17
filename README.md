@@ -5,6 +5,6 @@ Dots is another one of my small projects I worked on lightly for about a week. I
 
 As I made it more the idea seemed to be less practicle and almost impossible to play so I stopped working on it; but it was still helpful as more practice in design.
 
-##Controls:
+##Controls
 #####Break dot: Left click on dot
 #####Restart: R
